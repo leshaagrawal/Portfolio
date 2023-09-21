@@ -20,7 +20,7 @@ Welcome to my dazzling portfolio project! This is where creativity meets code, a
 
 ## 🌐 Live Demo
 
-Experience it live! [Portfolio Project Demo](link_to_live_demo)
+Experience it live! [Portfolio Project Demo](https://lesha-portfolio.netlify.app/)
 
 ## 🌟 How to Use
 
